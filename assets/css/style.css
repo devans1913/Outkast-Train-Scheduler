@@ -1,0 +1,24 @@
+.jumbotron {
+	color:black;
+	font-family: 'Fjalla One', sans-serif;
+	background-color: white;
+}
+
+body {
+	background-image: url('../images/backg.jpg');
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.panel-heading {
+	background-color: #337ab7;
+	border-color: #2e6da4;
+	font-weight: 600;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: white;
+	color: #2e6da4;
+	font-weight: 600;
+
+}
